@@ -1,0 +1,4 @@
+Node 8.11.3
+Open JDK 8
+NVM
+NPM 5.6.0
